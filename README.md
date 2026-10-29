@@ -1,17 +1,5 @@
-## Hi there 👋
+# Latency numbers every programmer should know
 
-I'm **chenduckgo**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
-
-
-- 🌐 Built a series of **decentralized** network infrastructures. 
-- 🔒 Written some **zero-knowledge proof** and other cryptographic libraries.
-- 🤖 Building **AI** and cool things.
-- 🍁 Planted many plants and flowers in the **garden**.
-- ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart(Flutter), Elixir, Ruby... :) 
-
-I am currently working as an **open source developer**.
-
-### Latency numbers every programmer should know
     L1 cache reference ......................... 0.5 ns
     Branch mispredict ............................ 5 ns
     L2 cache reference ........................... 7 ns
@@ -28,6 +16,5 @@ I am currently working as an **open source developer**.
     Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms
 
 Assuming ~1GB/sec SSD
-
 
 ![Visual representation of latencies](./pics/latency.png)
